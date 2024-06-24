@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class A {
+public class HelloButton {
     public static void main(String[] args) {
        
         JFrame frame = new JFrame("Hello Ji Button Example");
